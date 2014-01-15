@@ -1,0 +1,4 @@
+megahash
+========
+
+LTC Balance Checker
