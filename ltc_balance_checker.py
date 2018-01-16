@@ -75,6 +75,3 @@ else:
 		sendemail(fromaddr,toaddrs,ccaddrs,subject,message,username,password)
 		print "email sent!"
 
-
-
-
